@@ -1,4 +1,4 @@
-// const url = "https://newsdata.io/api/1/news?apikey=pub_36512caa710fbd4276987159f80fea0166489&q=";
+const url = "https://newsdata.io/api/1/news?apikey=pub_36512caa710fbd4276987159f80fea0166489&q=";
 
 window.addEventListener('load',() => fetchNews("India"));
 
