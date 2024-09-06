@@ -40,7 +40,7 @@ This project automates the deployment pipeline for web applications on Azure usi
 
 ## Complete Step By Step Process :
 1. Create Container Repository:
-![alt text](image.png)
+![alt text](assts/image.png)
 2. Use Azure Devops Portal For Creating Service Connections From Devops To Github and ACR.
 ![alt text](image-1.png)
 3. Create required Service Connection for the project
