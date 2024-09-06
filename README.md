@@ -46,7 +46,7 @@ This project automates the deployment pipeline for web applications on Azure usi
 3. Create required Service Connection for the project
 ![alt text](assts/image-3.png)
 ![alt text](assts/image-2.png)
-![alt text]assts/(image-4.png)
+![alt text](assts/image-4.png)
 4. Push The Code To Github Repo Which Should Contain the Required Docker File.
 ![alt text](assts/image-5.png)
 5. Create Build Pipeline To Create And Store The Docker Container In ACR.
@@ -66,7 +66,7 @@ This project automates the deployment pipeline for web applications on Azure usi
 ![alt text](assts/image-17.png)
 8. Create Web App.
 ![alt text](assts/image-18.png)
-9. Establish The Required Environment And Deploy if any eg. MongoDB
+9. Establish The Required Environment And Deploy if any eg. MongoDB and save.
 ![alt text](assts/image-19.png)
 10. Create Release Pipeline.
 ![alt text](assts/image-20.png)
@@ -75,7 +75,7 @@ This project automates the deployment pipeline for web applications on Azure usi
 ![alt text](assts/image-23.png)
 ![alt text](assts/image-25.png)
 ![alt text](assts/image-24.png)
-![alt text](image-26.png)
-![alt text](image-27.png)
-![alt text](image-28.png)
-![alt text](image-29.png)
+![alt text](assts/image-26.png)
+![alt text](assts/image-27.png)
+![alt text](assts/image-28.png)
+![alt text](assts/image-29.png)
